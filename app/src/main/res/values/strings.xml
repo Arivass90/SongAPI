@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musixmatch</string>
+    <string name="tab1">Top Rock</string>
+    <string name="tab2">Top Pop</string>
+    <string name="tab3">Top Jazz</string>
+    <string name="action_settings">Push</string>
+</resources>
